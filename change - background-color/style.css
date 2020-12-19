@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    padding-top: 50px;
+    background-color: salmon;
+}
+
+.dot {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: inline-block;
+    border: 4px solid black;
+}
+
+#circle1 {
+    background-color: blue;
+}
+
+#circle2 {
+    background-color: violet;
+}
+
+#circle3 {
+    background-color: yellowgreen;
+}
